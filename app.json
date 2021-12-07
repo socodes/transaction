@@ -1,0 +1,8 @@
+{
+  "name": "mdidin-transaction",
+  "buildpacks": [
+    {
+      "url" : "heroku/gradle"
+    }
+  ]
+}
